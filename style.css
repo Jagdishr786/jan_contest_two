@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+.parent{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#childone{
+    box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 56px;
+left: 58px;
+top: 213px;
+border-radius: 5px;
+
+}
+
+#childtwo{
+    box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 56px;
+left: 647px;
+top: 213px;
+}
+
+#childthree{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 451px;
+    height: 56px;
+    left: 1220px;
+    top: 213px;
+    
+
+}
